@@ -42,6 +42,7 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 ![image](https://github.com/Damirbek05/test-task/assets/124022133/b701d5b5-b917-4195-ba1e-ff1bcba69aeb)
 ### Delete request
 ![image](https://github.com/Damirbek05/test-task/assets/124022133/1d519f82-6f21-49bb-bb9b-6196d7f2c866)
+![image](https://github.com/Damirbek05/test-task/assets/124022133/5a309861-8125-4d72-b4b5-f4d66a7a8788)
 ### News
 ![image](https://github.com/Damirbek05/test-task/assets/124022133/2ef67a3a-0bd4-4c03-b941-ad3f9cfd89da)
 ![image](https://github.com/Damirbek05/test-task/assets/124022133/bcac27af-9c85-4abb-be95-4b84df46b47e)
