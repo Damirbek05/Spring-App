@@ -30,3 +30,24 @@ Fetch all news articles using the provided endpoint.
 * Spring Boot Starter Test: For testing the application.
 ### Contributing:
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
+
+## How it works:
+### Register
+![image](https://github.com/Damirbek05/test-task/assets/124022133/cbea6ab8-904e-4731-a56d-485cad5b1d55)
+![image](https://github.com/Damirbek05/test-task/assets/124022133/96bc020f-ba34-45c8-8ab0-0a168a1818eb)
+### Login
+![image](https://github.com/Damirbek05/test-task/assets/124022133/3c0f1d10-3bc4-4bee-8009-074eb62ce6f2)
+### Request
+![image](https://github.com/Damirbek05/test-task/assets/124022133/dd1291a5-4df4-4295-86d1-137c08279a6f)
+![image](https://github.com/Damirbek05/test-task/assets/124022133/b701d5b5-b917-4195-ba1e-ff1bcba69aeb)
+### Delete request
+![image](https://github.com/Damirbek05/test-task/assets/124022133/1d519f82-6f21-49bb-bb9b-6196d7f2c866)
+### News
+![image](https://github.com/Damirbek05/test-task/assets/124022133/2ef67a3a-0bd4-4c03-b941-ad3f9cfd89da)
+![image](https://github.com/Damirbek05/test-task/assets/124022133/bcac27af-9c85-4abb-be95-4b84df46b47e)
+
+
+
+
+
+
