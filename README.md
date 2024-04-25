@@ -46,6 +46,8 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 ### News
 ![image](https://github.com/Damirbek05/test-task/assets/124022133/2ef67a3a-0bd4-4c03-b941-ad3f9cfd89da)
 ![image](https://github.com/Damirbek05/test-task/assets/124022133/bcac27af-9c85-4abb-be95-4b84df46b47e)
+### Get news
+![image](https://github.com/Damirbek05/test-task/assets/124022133/657b18c3-ec84-4932-a5cf-cbd18b974e99)
 
 
 
