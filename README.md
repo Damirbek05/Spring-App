@@ -1,6 +1,8 @@
-![image](https://github.com/Damirbek05/test-task/assets/124022133/79722df9-486c-47e3-b55d-902c03db5eb1)# Test Task
+# Test Task
 Description:
 This project is a Spring application that allows users to register, authenticate, and manage news articles. It provides functionalities such as user registration, authentication, news creation, and fetching all news articles. The data is persisted in a PostgreSQL database, and the application exposes REST APIs for interaction.
+
+# Demo: https://test-task-esgq.onrender.com/ 
 
 ## Features:
 * User registration and authentication.
