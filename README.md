@@ -1,4 +1,4 @@
-# Test Task
+![image](https://github.com/Damirbek05/test-task/assets/124022133/79722df9-486c-47e3-b55d-902c03db5eb1)# Test Task
 Description:
 This project is a Spring application that allows users to register, authenticate, and manage news articles. It provides functionalities such as user registration, authentication, news creation, and fetching all news articles. The data is persisted in a PostgreSQL database, and the application exposes REST APIs for interaction.
 
@@ -32,22 +32,36 @@ Fetch all news articles using the provided endpoint.
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
 ## How it works:
+## You can use Insomnia or Postman etc. for testing HTTP requests and API management
 ### Register
-![image](https://github.com/Damirbek05/test-task/assets/124022133/cbea6ab8-904e-4731-a56d-485cad5b1d55)
-![image](https://github.com/Damirbek05/test-task/assets/124022133/96bc020f-ba34-45c8-8ab0-0a168a1818eb)
+Endpoints:
+https://test-task-esgq.onrender.com/api/users/register
+![image](https://github.com/Damirbek05/test-task/assets/124022133/6b91519b-afb5-48e2-b260-48893bae0728)
+![image](https://github.com/Damirbek05/test-task/assets/124022133/b0e619aa-e229-41b6-87c3-44dec27722ec)
 ### Login
-![image](https://github.com/Damirbek05/test-task/assets/124022133/3c0f1d10-3bc4-4bee-8009-074eb62ce6f2)
+Endpoint:
+https://test-task-esgq.onrender.com/api/users/login
+![image](https://github.com/Damirbek05/test-task/assets/124022133/33433b93-35fe-49fa-8155-ce367ba50f9e)
 ### Request
-![image](https://github.com/Damirbek05/test-task/assets/124022133/dd1291a5-4df4-4295-86d1-137c08279a6f)
-![image](https://github.com/Damirbek05/test-task/assets/124022133/b701d5b5-b917-4195-ba1e-ff1bcba69aeb)
+Endpoint:
+https://test-task-esgq.onrender.com/api/requests
+![image](https://github.com/Damirbek05/test-task/assets/124022133/a1e5454d-2c47-4dff-80c6-c01bbc58b364)
+![image](https://github.com/Damirbek05/test-task/assets/124022133/a30023f7-6d1e-4c89-bf55-e62c2ef7eb91)
 ### Delete request
-![image](https://github.com/Damirbek05/test-task/assets/124022133/1d519f82-6f21-49bb-bb9b-6196d7f2c866)
-![image](https://github.com/Damirbek05/test-task/assets/124022133/5a309861-8125-4d72-b4b5-f4d66a7a8788)
+Endpoint:
+https://test-task-esgq.onrender.com/api/requests/{id}
+![image](https://github.com/Damirbek05/test-task/assets/124022133/53ade4ec-3601-4861-b75b-4d3e5ff01502)
+![image](https://github.com/Damirbek05/test-task/assets/124022133/f7e49aa7-9b80-445b-9cc7-ef9d6fb9eccd)
 ### News
-![image](https://github.com/Damirbek05/test-task/assets/124022133/2ef67a3a-0bd4-4c03-b941-ad3f9cfd89da)
-![image](https://github.com/Damirbek05/test-task/assets/124022133/bcac27af-9c85-4abb-be95-4b84df46b47e)
+Endpoints:
+https://test-task-esgq.onrender.com/api/news
+![image](https://github.com/Damirbek05/test-task/assets/124022133/68b145c2-a37d-4516-b6cd-4a69a4d61660)
+![image](https://github.com/Damirbek05/test-task/assets/124022133/d6f06bec-8e64-4d8f-96b1-59fd427a5db1)
 ### Get news
-![image](https://github.com/Damirbek05/test-task/assets/124022133/657b18c3-ec84-4932-a5cf-cbd18b974e99)
+Endpoint:
+https://test-task-esgq.onrender.com/api/news
+![image](https://github.com/Damirbek05/test-task/assets/124022133/ee72c97c-9026-4549-8cf5-00f9de1a7a67)
+
 
 
 
