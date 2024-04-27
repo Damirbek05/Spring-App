@@ -10,13 +10,6 @@ This project is a Spring application that allows users to register, authenticate
 * Retrieval of all news articles.
 * Exception handling for scenarios like UsernameNotFoundException, IncorrectPasswordException, and UsernameAlreadyExistExceptions.
 
-## Installation:
-Clone the repository.
-Ensure you have Java 17 installed.
-Set up a PostgreSQL database and update the application properties accordingly.
-Build the project using Maven: mvn clean install.
-Run the application: java -jar target/test-task-0.0.1-SNAPSHOT.jar.
-
 ## Usage:
 Register a new user using the provided REST API endpoint.
 Authenticate the user to obtain access to news creation and retrieval functionalities.
