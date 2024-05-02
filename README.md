@@ -1,4 +1,4 @@
-# Test Task
+# Spring CRUD RestAPI project
 Description:
 This project is a Spring application that allows users to register, authenticate, and manage news articles. It provides functionalities such as user registration, authentication, news creation, and fetching all news articles. The data is persisted in a PostgreSQL database, and the application exposes REST APIs for interaction.
 
