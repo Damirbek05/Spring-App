@@ -3,6 +3,7 @@ Description:
 This project is a Spring application that allows users to register, authenticate, and manage news articles. It provides functionalities such as user registration, authentication, news creation, and fetching all news articles. The data is persisted in a PostgreSQL database, and the application exposes REST APIs for interaction.
 
 # Demo: https://test-task-esgq.onrender.com/ 
+## Use https://test-task-esgq.onrender.com/swagger-ui/index.html to see the controllers
 
 ## Features:
 * User registration and authentication.
